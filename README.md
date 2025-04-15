@@ -4,6 +4,7 @@
 
 # git
 克隆             git clone url
+添加             git add .
 提交             git commit -m '备注：提交信息'
 将文件给推到服务 git push origin master 
 本地更新         git pull 
