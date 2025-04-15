@@ -1,0 +1,13 @@
+yudao-cloud开发手册
+    https://cloud.iocoder.cn/video/
+
+
+rouyi-vue-pro开发手册
+	https://doc.iocoder.cn/video/
+	
+	
+	
+	https://doc.iocoder.cn/mall-preview/#_1-%E6%BC%94%E7%A4%BA%E5%9C%B0%E5%9D%80
+	
+	
+	账号：可使用账号 15601691300，验证码 9999 进行登录
